@@ -6,3 +6,23 @@ ol - lista ordenada (ordered list)
     trazem ordenação numérica
 ul - lista não ordenada (unordered list)
     não trazem ordenação numérica
+
+Criando um CV
+importando imagens dentro do arquivo com img class="profile-image" src="img/profile-image.jpeg" alt="Profile image"
+o nome da imagem tem que ser exatamente igual a que colocamos acima
+
+importando o CSS
+link rel="stylesheet" href="style.css"
+
+no css a foto estava estranha, mudei de 
+.profile .profile-image {
+    width: 100%;
+    border-radius: 100%;
+}
+para 
+.profile .profile-image {
+    width: 100%;
+    height: 30%;
+    border-radius: 50%;
+}
+pode ser que estivesse estranho pelo tamanho do monitor
