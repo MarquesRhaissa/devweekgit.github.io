@@ -26,3 +26,8 @@ para
     border-radius: 50%;
 }
 pode ser que estivesse estranho pelo tamanho do monitor
+
+Criando a parte direita do CV
+colocando as experiências
+no novo CSS troquei o estilo da foto de novo, no meu computador continuava estranho mesmo tirando o zoom
+coloquei empresas que seria um sonho trabalhar... "Fake it till you make it"
