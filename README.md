@@ -31,5 +31,3 @@ Criando a parte direita do CV
 colocando as experiências
 no novo CSS troquei o estilo da foto de novo, no meu computador continuava estranho mesmo tirando o zoom
 coloquei empresas que seria um sonho trabalhar... "Fake it till you make it"
-
-Adicionando a parte de formação acadêmica
