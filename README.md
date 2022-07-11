@@ -33,3 +33,12 @@ no novo CSS troquei o estilo da foto de novo, no meu computador continuava estra
 coloquei empresas que seria um sonho trabalhar... "Fake it till you make it"
 
 Criando a parte da formação
+
+Trocando a imagem de perfil
+Adicionando algumas informações para parecer um CV de verdade
+Mudando algumas coisas no CSS para a área de contatos e skills não ficar colada na esquerda
+Tirando a alteração que tinha colocado na foto, descobri que se a minha foto estiver quadrada, ela fica
+certinha como a do professor, então além de trocar a foto, coloquei ela quadrada para encaixar melhor.
+Trocando de desenvolvedor para desenvolvedora.
+Trocando os links de fonte, tinha colocado o que eu achei no google, mas o professou usou outro link com mais informações, peguei o link dele e algumas outras fontes que não tinham sido alteradas no index, mudaram. 
+O link dos icones eu também peguei o do professor, mas não vi diferença do que eu estava usando antes, apesar de serem diferentes.
